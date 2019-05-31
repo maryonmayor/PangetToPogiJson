@@ -1,0 +1,4 @@
+org\p2pjson\ApplicationRoot.class
+org\p2pjson\config\Camel.class
+org\p2pjson\routes\PapogiRoute.class
+org\p2pjson\routes\PapogiRoute$1.class
