@@ -23,5 +23,6 @@ this will create a panget folder then put an ugly json inside the folder and the
 
 ## other information
 + i use apache camel for this.
++ i use gson to prettify a json.
 + i created a bat file to run the jar, and will try to commit it in the future. :P
 + **PANGET** in _Filipino_ means *UGLY* and **POGI** in _Filipino_ means *HANDSOME*.
